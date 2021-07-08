@@ -1,0 +1,399 @@
+,isabl_patient_id,isabl_sample_id,isabl_aliquot_id,isabl_application,technique_category,technique_method,technique_name,version,result_type,result_filepath
+0,OV2295,DAH370N,Unspecified Aliquot,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.14,bai,/juno/work/shah/isabl_data_lake/experiments/43/26/14326/data/SHAH_H001751_N01_01_WG01_785214a02308645e_DAH370N_A41086_6_lanes_dupsFlagged_hg19_bwa_mem.bam.bai
+1,OV2295,DAH370N,Unspecified Aliquot,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.14,bam,/juno/work/shah/isabl_data_lake/experiments/43/26/14326/data/SHAH_H001751_N01_01_WG01_785214a02308645e_DAH370N_A41086_6_lanes_dupsFlagged_hg19_bwa_mem.bam
+2,OV2295,DAH370N,Unspecified Aliquot,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.14,metrics,
+3,OV2295,DAH370N,Unspecified Aliquot,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.14,command_err,/juno/work/shah/isabl_data_lake/analyses/80/80/8080/head_job.err
+4,OV2295,DAH370N,Unspecified Aliquot,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.14,command_log,/juno/work/shah/isabl_data_lake/analyses/80/80/8080/head_job.log
+5,OV2295,DAH370N,Unspecified Aliquot,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.14,command_script,/juno/work/shah/isabl_data_lake/analyses/80/80/8080/head_job.sh
+6,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,roh,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_roh.csv.gz
+7,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,metadata,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/metadata.yaml
+8,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,command_err,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/head_job.err
+9,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,command_log,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/head_job.log
+10,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,rtg_germline,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_rtg_germline.vcf.gz
+11,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,command_script,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/head_job.sh
+12,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,rtg_germline_csi,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_rtg_germline.vcf.gz.csi
+13,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,rtg_germline_maf,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_rtg_germline.maf
+14,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,rtg_germline_tbi,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_rtg_germline.vcf.gz.tbi
+15,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,samtools_germline,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_samtools_germline.vcf.gz
+16,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,freebayes_germline,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_freebayes_germline.vcf.gz
+17,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,single_museqportrait,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_single_museqportrait.pdf
+18,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,samtools_germline_csi,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_samtools_germline.vcf.gz.csi
+19,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,samtools_germline_maf,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_samtools_germline.maf
+20,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,samtools_germline_tbi,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_samtools_germline.vcf.gz.tbi
+21,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,consensus_germline_maf,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_consensus_germline.maf
+22,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,freebayes_germline_csi,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_freebayes_germline.vcf.gz.csi
+23,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,freebayes_germline_maf,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_freebayes_germline.maf
+24,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,freebayes_germline_tbi,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_freebayes_germline.vcf.gz.tbi
+25,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,museq_single_annotated,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_museq_single_annotated.vcf.gz
+26,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,museq_single_annotated_csi,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_museq_single_annotated.vcf.gz.csi
+27,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,museq_single_annotated_maf,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_museq_single_annotated.maf
+28,OV2295,DAH370N,Unspecified Aliquot,WGS-GERMLINECALLING,DNA,WG,Bulk WGS,v0.1.14,museq_single_annotated_tbi,/juno/work/shah/isabl_data_lake/analyses/80/82/8082/results/germline/DAH370N/DAH370N_museq_single_annotated.vcf.gz.tbi
+29,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,metadata,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/results/metadata.yaml
+30,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,bams_path,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/bams
+31,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,gc_metrics,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/results/A90554A_gc_metrics.csv.gz
+32,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,command_err,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/head_job.err
+33,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,command_log,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/head_job.log
+34,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,bams_metadata,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/bams/metadata.yaml
+35,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,command_script,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/head_job.sh
+36,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,results_metadata,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/results/metadata.yaml
+37,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,alignment_metrics_csv,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/results/A90554A_alignment_metrics.csv.gz
+38,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,alignment_metrics_pdf,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/results/A90554A_alignment_metrics.pdf
+39,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,detailed_fastqscreen_metrics,/juno/work/shah/isabl_data_lake/analyses/85/01/8501/results/A90554A_detailed_fastqscreen_metrics.csv.gz
+40,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,metadata,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/results/metadata.yaml
+41,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,bams_path,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/bams
+42,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,gc_metrics,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/results/A90554B_gc_metrics.csv.gz
+43,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,command_err,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/head_job.err
+44,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,command_log,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/head_job.log
+45,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,bams_metadata,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/bams/metadata.yaml
+46,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,command_script,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/head_job.sh
+47,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,results_metadata,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/results/metadata.yaml
+48,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,alignment_metrics_csv,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/results/A90554B_alignment_metrics.csv.gz
+49,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,alignment_metrics_pdf,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/results/A90554B_alignment_metrics.pdf
+50,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,detailed_fastqscreen_metrics,/juno/work/shah/isabl_data_lake/analyses/85/02/8502/results/A90554B_detailed_fastqscreen_metrics.csv.gz
+51,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,metadata,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/results/metadata.yaml
+52,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,bams_path,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/bams
+53,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,gc_metrics,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/results/A96213A_gc_metrics.csv.gz
+54,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,command_err,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/head_job.err
+55,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,command_log,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/head_job.log
+56,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,bams_metadata,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/bams/metadata.yaml
+57,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,command_script,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/head_job.sh
+58,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,results_metadata,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/results/metadata.yaml
+59,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,alignment_metrics_csv,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/results/A96213A_alignment_metrics.csv.gz
+60,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,alignment_metrics_pdf,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/results/A96213A_alignment_metrics.pdf
+61,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ALIGNMENT,DNA,DLP,Single Cell DNA Seq,v0.6.42,detailed_fastqscreen_metrics,/juno/work/shah/isabl_data_lake/analyses/85/03/8503/results/A96213A_detailed_fastqscreen_metrics.csv.gz
+62,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,bias,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_bias.tar.gz
+63,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,segs,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_segs.tar.gz
+64,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,reads,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_reads.csv.gz
+65,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,params,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_params.csv.gz
+66,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,metadata,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/metadata.yaml
+67,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,segments,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_segments.csv.gz
+68,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_err,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/head_job.err
+69,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_log,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/head_job.log
+70,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,hmmcopy_data,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_hmmcopy_data.tar.gz
+71,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,igv_segments,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_igv_segments.seg
+72,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,heatmap_by_ec,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_heatmap_by_ec.pdf
+73,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_script,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/head_job.sh
+74,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,kernel_density,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_kernel_density.pdf
+75,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,results_metadata,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/metadata.yaml
+76,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,hmmcopy_metrics_csv,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_hmmcopy_metrics.csv.gz
+77,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,hmmcopy_metrics_pdf,/juno/work/shah/isabl_data_lake/analyses/86/78/8678/results/A96213A_hmmcopy_metrics.pdf
+78,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,bias,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_bias.tar.gz
+79,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,segs,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_segs.tar.gz
+80,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,reads,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_reads.csv.gz
+81,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,params,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_params.csv.gz
+82,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,metadata,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/metadata.yaml
+83,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,segments,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_segments.csv.gz
+84,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_err,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/head_job.err
+85,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_log,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/head_job.log
+86,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,hmmcopy_data,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_hmmcopy_data.tar.gz
+87,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,igv_segments,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_igv_segments.seg
+88,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,heatmap_by_ec,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_heatmap_by_ec.pdf
+89,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_script,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/head_job.sh
+90,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,kernel_density,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_kernel_density.pdf
+91,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,results_metadata,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/metadata.yaml
+92,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,hmmcopy_metrics_csv,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_hmmcopy_metrics.csv.gz
+93,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,hmmcopy_metrics_pdf,/juno/work/shah/isabl_data_lake/analyses/86/79/8679/results/A90554B_hmmcopy_metrics.pdf
+94,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,bias,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_bias.tar.gz
+95,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,segs,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_segs.tar.gz
+96,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,reads,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_reads.csv.gz
+97,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,params,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_params.csv.gz
+98,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,metadata,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/metadata.yaml
+99,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,segments,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_segments.csv.gz
+100,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_err,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/head_job.err
+101,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_log,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/head_job.log
+102,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,hmmcopy_data,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_hmmcopy_data.tar.gz
+103,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,igv_segments,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_igv_segments.seg
+104,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,heatmap_by_ec,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_heatmap_by_ec.pdf
+105,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_script,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/head_job.sh
+106,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,kernel_density,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_kernel_density.pdf
+107,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,results_metadata,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/metadata.yaml
+108,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,hmmcopy_metrics_csv,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_hmmcopy_metrics.csv.gz
+109,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-HMMCOPY,DNA,DLP,Single Cell DNA Seq,v0.6.41,hmmcopy_metrics_pdf,/juno/work/shah/isabl_data_lake/analyses/86/80/8680/results/A90554A_hmmcopy_metrics.pdf
+110,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,metrics,/juno/work/shah/isabl_data_lake/analyses/88/13/8813/results/A90554A_metrics.csv.gz
+111,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,metadata,/juno/work/shah/isabl_data_lake/analyses/88/13/8813/results/metadata.yaml
+112,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,qc_report,/juno/work/shah/isabl_data_lake/analyses/88/13/8813/results/A90554A_QC_report.html
+113,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,segs_fail,/juno/work/shah/isabl_data_lake/analyses/88/13/8813/results/A90554A_segs_fail.tar.gz
+114,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,segs_pass,/juno/work/shah/isabl_data_lake/analyses/88/13/8813/results/A90554A_segs_pass.tar.gz
+115,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_err,/juno/work/shah/isabl_data_lake/analyses/88/13/8813/head_job.err
+116,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_log,/juno/work/shah/isabl_data_lake/analyses/88/13/8813/head_job.log
+117,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_script,/juno/work/shah/isabl_data_lake/analyses/88/13/8813/head_job.sh
+118,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,heatmap_by_ec_filtered,/juno/work/shah/isabl_data_lake/analyses/88/13/8813/results/A90554A_heatmap_by_ec_filtered.pdf
+119,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,metrics,/juno/work/shah/isabl_data_lake/analyses/88/14/8814/results/A90554B_metrics.csv.gz
+120,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,metadata,/juno/work/shah/isabl_data_lake/analyses/88/14/8814/results/metadata.yaml
+121,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,qc_report,/juno/work/shah/isabl_data_lake/analyses/88/14/8814/results/A90554B_QC_report.html
+122,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,segs_fail,/juno/work/shah/isabl_data_lake/analyses/88/14/8814/results/A90554B_segs_fail.tar.gz
+123,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,segs_pass,/juno/work/shah/isabl_data_lake/analyses/88/14/8814/results/A90554B_segs_pass.tar.gz
+124,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_err,/juno/work/shah/isabl_data_lake/analyses/88/14/8814/head_job.err
+125,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_log,/juno/work/shah/isabl_data_lake/analyses/88/14/8814/head_job.log
+126,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_script,/juno/work/shah/isabl_data_lake/analyses/88/14/8814/head_job.sh
+127,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,heatmap_by_ec_filtered,/juno/work/shah/isabl_data_lake/analyses/88/14/8814/results/A90554B_heatmap_by_ec_filtered.pdf
+128,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,metrics,/juno/work/shah/isabl_data_lake/analyses/88/15/8815/results/A96213A_metrics.csv.gz
+129,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,metadata,/juno/work/shah/isabl_data_lake/analyses/88/15/8815/results/metadata.yaml
+130,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,qc_report,/juno/work/shah/isabl_data_lake/analyses/88/15/8815/results/A96213A_QC_report.html
+131,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,segs_fail,/juno/work/shah/isabl_data_lake/analyses/88/15/8815/results/A96213A_segs_fail.tar.gz
+132,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,segs_pass,/juno/work/shah/isabl_data_lake/analyses/88/15/8815/results/A96213A_segs_pass.tar.gz
+133,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_err,/juno/work/shah/isabl_data_lake/analyses/88/15/8815/head_job.err
+134,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_log,/juno/work/shah/isabl_data_lake/analyses/88/15/8815/head_job.log
+135,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,command_script,/juno/work/shah/isabl_data_lake/analyses/88/15/8815/head_job.sh
+136,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-ANNOTATION,DNA,DLP,Single Cell DNA Seq,v0.6.41,heatmap_by_ec_filtered,/juno/work/shah/isabl_data_lake/analyses/88/15/8815/results/A96213A_heatmap_by_ec_filtered.pdf
+137,OV2295,DAH370N,Unspecified Aliquot,SCDNA-SPLITBAMS,DNA,WG,Bulk WGS,v0.6.42,metadata,/juno/work/shah/isabl_data_lake/analyses/01/97/10197/results/metadata.yaml
+138,OV2295,DAH370N,Unspecified Aliquot,SCDNA-SPLITBAMS,DNA,WG,Bulk WGS,v0.6.42,command_err,/juno/work/shah/isabl_data_lake/analyses/01/97/10197/head_job.err
+139,OV2295,DAH370N,Unspecified Aliquot,SCDNA-SPLITBAMS,DNA,WG,Bulk WGS,v0.6.42,command_log,/juno/work/shah/isabl_data_lake/analyses/01/97/10197/head_job.log
+140,OV2295,DAH370N,Unspecified Aliquot,SCDNA-SPLITBAMS,DNA,WG,Bulk WGS,v0.6.42,command_script,/juno/work/shah/isabl_data_lake/analyses/01/97/10197/head_job.sh
+141,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,bai,/juno/work/shah/isabl_data_lake/analyses/11/29/11129/results/DAH354/DAH354.bam.bai
+142,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,bam,/juno/work/shah/isabl_data_lake/analyses/11/29/11129/results/DAH354/DAH354.bam
+143,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,metrics,/juno/work/shah/isabl_data_lake/analyses/11/29/11129/results/DAH354/DAH354_metrics.csv
+144,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,metadata,/juno/work/shah/isabl_data_lake/analyses/11/29/11129/results/metadata.yaml
+145,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,command_err,/juno/work/shah/isabl_data_lake/analyses/11/29/11129/head_job.err
+146,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,command_log,/juno/work/shah/isabl_data_lake/analyses/11/29/11129/head_job.log
+147,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,command_script,/juno/work/shah/isabl_data_lake/analyses/11/29/11129/head_job.sh
+148,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,bai,/juno/work/shah/isabl_data_lake/analyses/11/30/11130/results/DAH355/DAH355.bam.bai
+149,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,bam,/juno/work/shah/isabl_data_lake/analyses/11/30/11130/results/DAH355/DAH355.bam
+150,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,metrics,/juno/work/shah/isabl_data_lake/analyses/11/30/11130/results/DAH355/DAH355_metrics.csv
+151,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,metadata,/juno/work/shah/isabl_data_lake/analyses/11/30/11130/results/metadata.yaml
+152,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,command_err,/juno/work/shah/isabl_data_lake/analyses/11/30/11130/head_job.err
+153,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,command_log,/juno/work/shah/isabl_data_lake/analyses/11/30/11130/head_job.log
+154,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-ALIGNMENT,DNA,WG,Bulk WGS,v0.1.22,command_script,/juno/work/shah/isabl_data_lake/analyses/11/30/11130/head_job.sh
+155,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,museq,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/results/copynumber/DAH355/titan/DAH355_museq.vcf
+156,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,metadata,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/results/metadata.yaml
+157,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,all_params,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/results/copynumber/DAH355/titan/DAH355_data_all_parameters.tar.gz
+158,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_segs,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/results/copynumber/DAH355/titan/DAH355_titan_segs.csv.gz
+159,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,command_err,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/head_job.err
+160,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,command_log,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/head_job.log
+161,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_plots,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/results/copynumber/DAH355/titan/DAH355_titan_plots.pdf
+162,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_params,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/results/copynumber/DAH355/titan/DAH355_titan_params.csv.gz
+163,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_parsed,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/results/copynumber/DAH355/titan/DAH355_titan_parsed.csv.gz
+164,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_markers,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/results/copynumber/DAH355/titan/DAH355_titan_markers.csv.gz
+165,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,command_script,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/head_job.sh
+166,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_igv_segs,/juno/work/shah/isabl_data_lake/analyses/14/51/11451/results/copynumber/DAH355/titan/DAH355_titan_igv_segs.seg
+167,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,museq,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/results/copynumber/DAH354/titan/DAH354_museq.vcf
+168,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,metadata,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/results/metadata.yaml
+169,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,all_params,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/results/copynumber/DAH354/titan/DAH354_data_all_parameters.tar.gz
+170,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_segs,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/results/copynumber/DAH354/titan/DAH354_titan_segs.csv.gz
+171,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,command_err,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/head_job.err
+172,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,command_log,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/head_job.log
+173,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_plots,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/results/copynumber/DAH354/titan/DAH354_titan_plots.pdf
+174,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_params,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/results/copynumber/DAH354/titan/DAH354_titan_params.csv.gz
+175,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_parsed,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/results/copynumber/DAH354/titan/DAH354_titan_parsed.csv.gz
+176,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_markers,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/results/copynumber/DAH354/titan/DAH354_titan_markers.csv.gz
+177,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,command_script,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/head_job.sh
+178,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-COPYNUMBERCALLING,DNA,WG,Bulk WGS,v0.1.22,titan_igv_segs,/juno/work/shah/isabl_data_lake/analyses/14/52/11452/results/copynumber/DAH354/titan/DAH354_titan_igv_segs.seg
+179,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,lumpy,/juno/work/shah/isabl_data_lake/analyses/14/53/11453/results/breakpoints/DAH355/DAH355_lumpy.vcf
+180,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,metadata,/juno/work/shah/isabl_data_lake/analyses/14/53/11453/results/metadata.yaml
+181,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,command_err,/juno/work/shah/isabl_data_lake/analyses/14/53/11453/head_job.err
+182,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,command_log,/juno/work/shah/isabl_data_lake/analyses/14/53/11453/head_job.log
+183,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,command_script,/juno/work/shah/isabl_data_lake/analyses/14/53/11453/head_job.sh
+184,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,destruct_reads,/juno/work/shah/isabl_data_lake/analyses/14/53/11453/results/breakpoints/DAH355/DAH355_destruct_reads.csv.gz
+185,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,consensus_calls,/juno/work/shah/isabl_data_lake/analyses/14/53/11453/results/breakpoints/DAH355/DAH355_filtered_consensus_calls.csv.gz
+186,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,destruct_library,/juno/work/shah/isabl_data_lake/analyses/14/53/11453/results/breakpoints/DAH355/DAH355_destruct_library.csv.gz
+187,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,destruct_breakpoints,/juno/work/shah/isabl_data_lake/analyses/14/53/11453/results/breakpoints/DAH355/DAH355_destruct_breakpoints.csv.gz
+188,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,destruct_raw_library,breakpoints/DAH355/DAH355_destruct_raw_library.csv.gz
+189,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,destruct_raw_breakpoints,/juno/work/shah/isabl_data_lake/analyses/14/53/11453/results/breakpoints/DAH355/DAH355_destruct_raw_breakpoints.csv.gz
+190,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,lumpy,/juno/work/shah/isabl_data_lake/analyses/14/54/11454/results/breakpoints/DAH354/DAH354_lumpy.vcf
+191,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,metadata,/juno/work/shah/isabl_data_lake/analyses/14/54/11454/results/metadata.yaml
+192,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,command_err,/juno/work/shah/isabl_data_lake/analyses/14/54/11454/head_job.err
+193,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,command_log,/juno/work/shah/isabl_data_lake/analyses/14/54/11454/head_job.log
+194,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,command_script,/juno/work/shah/isabl_data_lake/analyses/14/54/11454/head_job.sh
+195,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,destruct_reads,/juno/work/shah/isabl_data_lake/analyses/14/54/11454/results/breakpoints/DAH354/DAH354_destruct_reads.csv.gz
+196,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,consensus_calls,/juno/work/shah/isabl_data_lake/analyses/14/54/11454/results/breakpoints/DAH354/DAH354_filtered_consensus_calls.csv.gz
+197,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,destruct_library,/juno/work/shah/isabl_data_lake/analyses/14/54/11454/results/breakpoints/DAH354/DAH354_destruct_library.csv.gz
+198,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,destruct_breakpoints,/juno/work/shah/isabl_data_lake/analyses/14/54/11454/results/breakpoints/DAH354/DAH354_destruct_breakpoints.csv.gz
+199,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,destruct_raw_library,breakpoints/DAH354/DAH354_destruct_raw_library.csv.gz
+200,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-BREAKPOINTCALLING,DNA,WG,Bulk WGS,v0.1.22,destruct_raw_breakpoints,/juno/work/shah/isabl_data_lake/analyses/14/54/11454/results/breakpoints/DAH354/DAH354_destruct_raw_breakpoints.csv.gz
+201,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,mutect,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_mutect.vcf.gz
+202,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,metadata,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/metadata.yaml
+203,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,mutect_csi,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_mutect.vcf.gz.csi
+204,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,mutect_maf,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_mutect.maf
+205,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,mutect_tbi,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_mutect.vcf.gz.tbi
+206,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,command_err,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/head_job.err
+207,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,command_log,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/head_job.log
+208,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,command_script,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/head_job.sh
+209,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,paired_museqportrait,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_paired_museqportrait.pdf
+210,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,consensus_somatic_maf,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_consensus_somatic.maf
+211,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_snv_annotated,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_strelka_snv_annotated.vcf.gz
+212,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,museq_paired_annotated,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_museq_paired_annotated.vcf.gz
+213,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_indel_annotated,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_strelka_indel_annotated.vcf.gz
+214,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_snv_annotated_csi,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_strelka_snv_annotated.vcf.gz.csi
+215,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_snv_annotated_maf,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_strelka_snv_annotated.maf
+216,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_snv_annotated_tbi,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_strelka_snv_annotated.vcf.gz.tbi
+217,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,museq_paired_annotated_csi,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_museq_paired_annotated.vcf.gz.csi
+218,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,museq_paired_annotated_maf,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_museq_paired_annotated.maf
+219,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,museq_paired_annotated_tbi,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_museq_paired_annotated.vcf.gz.tbi
+220,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_indel_annotated_csi,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_strelka_indel_annotated.vcf.gz.csi
+221,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_indel_annotated_maf,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_strelka_indel_annotated.maf
+222,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_indel_annotated_tbi,/juno/work/shah/isabl_data_lake/analyses/14/55/11455/results/somatic/DAH355/DAH355_strelka_indel_annotated.vcf.gz.tbi
+223,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,mutect,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_mutect.vcf.gz
+224,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,metadata,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/metadata.yaml
+225,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,mutect_csi,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_mutect.vcf.gz.csi
+226,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,mutect_maf,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_mutect.maf
+227,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,mutect_tbi,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_mutect.vcf.gz.tbi
+228,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,command_err,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/head_job.err
+229,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,command_log,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/head_job.log
+230,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,command_script,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/head_job.sh
+231,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,paired_museqportrait,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_paired_museqportrait.pdf
+232,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,consensus_somatic_maf,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_consensus_somatic.maf
+233,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_snv_annotated,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_strelka_snv_annotated.vcf.gz
+234,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,museq_paired_annotated,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_museq_paired_annotated.vcf.gz
+235,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_indel_annotated,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_strelka_indel_annotated.vcf.gz
+236,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_snv_annotated_csi,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_strelka_snv_annotated.vcf.gz.csi
+237,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_snv_annotated_maf,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_strelka_snv_annotated.maf
+238,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_snv_annotated_tbi,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_strelka_snv_annotated.vcf.gz.tbi
+239,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,museq_paired_annotated_csi,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_museq_paired_annotated.vcf.gz.csi
+240,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,museq_paired_annotated_maf,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_museq_paired_annotated.maf
+241,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,museq_paired_annotated_tbi,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_museq_paired_annotated.vcf.gz.tbi
+242,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_indel_annotated_csi,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_strelka_indel_annotated.vcf.gz.csi
+243,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_indel_annotated_maf,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_strelka_indel_annotated.maf
+244,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-SOMATICCALLING,DNA,WG,Bulk WGS,v0.1.22,strelka_indel_annotated_tbi,/juno/work/shah/isabl_data_lake/analyses/14/56/11456/results/somatic/DAH354/DAH354_strelka_indel_annotated.vcf.gz.tbi
+245,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,metadata,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/metadata.yaml
+246,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,segments,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/remixt/DAH354/DAH354_raw_dir/segments.tsv
+247,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_cn,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/remixt/DAH354/DAH354_remixt_cn.csv.gz
+248,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_h5,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/remixt/DAH354/DAH354_remixt.h5
+249,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,haplotypes,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/remixt/DAH354/DAH354_raw_dir/haplotypes.tsv
+250,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_mix,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/remixt/DAH354/DAH354_remixt_mix.csv.gz
+251,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,command_err,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/head_job.err
+252,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,command_log,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/head_job.log
+253,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,ploidy_plots,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/remixt/DAH354/DAH354_raw_dir/ploidy_plots/sample_DAH354.pdf
+254,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_stats,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/remixt/DAH354/DAH354_remixt_stats.csv.gz
+255,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_brk_cn,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/remixt/DAH354/DAH354_remixt_brk_cn.csv.gz
+256,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,command_script,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/head_job.sh
+257,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_read_depth,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/remixt/DAH354/DAH354_remixt_read_depth.csv.gz
+258,OV2295,DAH354,A41088_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_minor_modes,/juno/work/shah/isabl_data_lake/analyses/17/41/11741/results/remixt/DAH354/DAH354_remixt_minor_modes.csv.gz
+259,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,metadata,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/metadata.yaml
+260,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,segments,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/remixt/DAH355/DAH355_raw_dir/segments.tsv
+261,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_cn,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/remixt/DAH355/DAH355_remixt_cn.csv.gz
+262,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_h5,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/remixt/DAH355/DAH355_remixt.h5
+263,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,haplotypes,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/remixt/DAH355/DAH355_raw_dir/haplotypes.tsv
+264,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_mix,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/remixt/DAH355/DAH355_remixt_mix.csv.gz
+265,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,command_err,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/head_job.err
+266,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,command_log,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/head_job.log
+267,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,ploidy_plots,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/remixt/DAH355/DAH355_raw_dir/ploidy_plots/sample_DAH355.pdf
+268,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_stats,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/remixt/DAH355/DAH355_remixt_stats.csv.gz
+269,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_brk_cn,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/remixt/DAH355/DAH355_remixt_brk_cn.csv.gz
+270,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,command_script,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/head_job.sh
+271,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_read_depth,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/remixt/DAH355/DAH355_remixt_read_depth.csv.gz
+272,OV2295,DAH355,A41087_6_lanes_dupsFlagged,WGS-REMIXT,DNA,WG,Bulk WGS,v0.1.22,remixt_minor_modes,/juno/work/shah/isabl_data_lake/analyses/17/42/11742/results/remixt/DAH355/DAH355_remixt_minor_modes.csv.gz
+273,OV2295,DAH370N,Unspecified Aliquot,SCDNA-INFERHAPS,DNA,WG,Bulk WGS,v0.7.5,metadata,/juno/work/shah/isabl_data_lake/analyses/23/51/12351/results/metadata.yaml
+274,OV2295,DAH370N,Unspecified Aliquot,SCDNA-INFERHAPS,DNA,WG,Bulk WGS,v0.7.5,haplotypes,/juno/work/shah/isabl_data_lake/analyses/23/51/12351/results/haplotypes.csv.gz
+275,OV2295,DAH370N,Unspecified Aliquot,SCDNA-INFERHAPS,DNA,WG,Bulk WGS,v0.7.5,command_err,/juno/work/shah/isabl_data_lake/analyses/23/51/12351/head_job.err
+276,OV2295,DAH370N,Unspecified Aliquot,SCDNA-INFERHAPS,DNA,WG,Bulk WGS,v0.7.5,command_log,/juno/work/shah/isabl_data_lake/analyses/23/51/12351/head_job.log
+277,OV2295,DAH370N,Unspecified Aliquot,SCDNA-INFERHAPS,DNA,WG,Bulk WGS,v0.7.5,command_script,/juno/work/shah/isabl_data_lake/analyses/23/51/12351/head_job.sh
+278,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,metadata,/juno/work/shah/isabl_data_lake/analyses/23/89/12389/results/metadata.yaml
+279,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,command_err,/juno/work/shah/isabl_data_lake/analyses/23/89/12389/head_job.err
+280,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,command_log,/juno/work/shah/isabl_data_lake/analyses/23/89/12389/head_job.log
+281,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,allele_counts,/juno/work/shah/isabl_data_lake/analyses/23/89/12389/results/allele_counts.csv.gz
+282,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,command_script,/juno/work/shah/isabl_data_lake/analyses/23/89/12389/head_job.sh
+283,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,metadata,/juno/work/shah/isabl_data_lake/analyses/23/90/12390/results/metadata.yaml
+284,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,command_err,/juno/work/shah/isabl_data_lake/analyses/23/90/12390/head_job.err
+285,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,command_log,/juno/work/shah/isabl_data_lake/analyses/23/90/12390/head_job.log
+286,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,allele_counts,/juno/work/shah/isabl_data_lake/analyses/23/90/12390/results/allele_counts.csv.gz
+287,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,command_script,/juno/work/shah/isabl_data_lake/analyses/23/90/12390/head_job.sh
+288,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,metadata,/juno/work/shah/isabl_data_lake/analyses/23/91/12391/results/metadata.yaml
+289,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,command_err,/juno/work/shah/isabl_data_lake/analyses/23/91/12391/head_job.err
+290,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,command_log,/juno/work/shah/isabl_data_lake/analyses/23/91/12391/head_job.log
+291,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,allele_counts,/juno/work/shah/isabl_data_lake/analyses/23/91/12391/results/allele_counts.csv.gz
+292,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-COUNTHAPS,DNA,DLP,Single Cell DNA Seq,v0.7.5,command_script,/juno/work/shah/isabl_data_lake/analyses/23/91/12391/head_job.sh
+293,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,metadata,/juno/work/shah/isabl_data_lake/analyses/37/79/13779/results/metadata.yaml
+294,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_err,/juno/work/shah/isabl_data_lake/analyses/37/79/13779/head_job.err
+295,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_log,/juno/work/shah/isabl_data_lake/analyses/37/79/13779/head_job.log
+296,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_script,/juno/work/shah/isabl_data_lake/analyses/37/79/13779/head_job.sh
+297,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,metadata,/juno/work/shah/isabl_data_lake/analyses/37/80/13780/results/metadata.yaml
+298,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_err,/juno/work/shah/isabl_data_lake/analyses/37/80/13780/head_job.err
+299,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_log,/juno/work/shah/isabl_data_lake/analyses/37/80/13780/head_job.log
+300,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_script,/juno/work/shah/isabl_data_lake/analyses/37/80/13780/head_job.sh
+301,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,metadata,/juno/work/shah/isabl_data_lake/analyses/37/81/13781/results/metadata.yaml
+302,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_err,/juno/work/shah/isabl_data_lake/analyses/37/81/13781/head_job.err
+303,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_log,/juno/work/shah/isabl_data_lake/analyses/37/81/13781/head_job.log
+304,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-MERGEBAMS,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_script,/juno/work/shah/isabl_data_lake/analyses/37/81/13781/head_job.sh
+305,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_err,/juno/work/shah/isabl_data_lake/analyses/38/78/13878/head_job.err
+306,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_log,/juno/work/shah/isabl_data_lake/analyses/38/78/13878/head_job.log
+307,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_script,/juno/work/shah/isabl_data_lake/analyses/38/78/13878/head_job.sh
+308,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,destruct_breakpoints,/juno/work/shah/isabl_data_lake/analyses/38/78/13878/results/destruct_breakpoints.csv.gz
+309,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,destruct_cell_counts,/juno/work/shah/isabl_data_lake/analyses/38/78/13878/results/destruct_cell_counts.csv.gz
+310,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,lumpy_breakpoints_bed,/juno/work/shah/isabl_data_lake/analyses/38/78/13878/results/lumpy_breakpoints.bed
+311,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,lumpy_breakpoints_csv,/juno/work/shah/isabl_data_lake/analyses/38/78/13878/results/lumpy_breakpoints.csv.gz
+312,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,lumpy_breakpoints_evidence,/juno/work/shah/isabl_data_lake/analyses/38/78/13878/results/lumpy_breakpoints_evidence.csv.gz
+313,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,destruct_breakpoints_library,/juno/work/shah/isabl_data_lake/analyses/38/78/13878/results/destruct_breakpoints_library.csv.gz
+314,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_err,/juno/work/shah/isabl_data_lake/analyses/38/79/13879/head_job.err
+315,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_log,/juno/work/shah/isabl_data_lake/analyses/38/79/13879/head_job.log
+316,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_script,/juno/work/shah/isabl_data_lake/analyses/38/79/13879/head_job.sh
+317,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,destruct_breakpoints,/juno/work/shah/isabl_data_lake/analyses/38/79/13879/results/destruct_breakpoints.csv.gz
+318,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,destruct_cell_counts,/juno/work/shah/isabl_data_lake/analyses/38/79/13879/results/destruct_cell_counts.csv.gz
+319,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,lumpy_breakpoints_bed,/juno/work/shah/isabl_data_lake/analyses/38/79/13879/results/lumpy_breakpoints.bed
+320,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,lumpy_breakpoints_csv,/juno/work/shah/isabl_data_lake/analyses/38/79/13879/results/lumpy_breakpoints.csv.gz
+321,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,lumpy_breakpoints_evidence,/juno/work/shah/isabl_data_lake/analyses/38/79/13879/results/lumpy_breakpoints_evidence.csv.gz
+322,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,destruct_breakpoints_library,/juno/work/shah/isabl_data_lake/analyses/38/79/13879/results/destruct_breakpoints_library.csv.gz
+323,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_err,/juno/work/shah/isabl_data_lake/analyses/38/80/13880/head_job.err
+324,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_log,/juno/work/shah/isabl_data_lake/analyses/38/80/13880/head_job.log
+325,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_script,/juno/work/shah/isabl_data_lake/analyses/38/80/13880/head_job.sh
+326,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,destruct_breakpoints,/juno/work/shah/isabl_data_lake/analyses/38/80/13880/results/destruct_breakpoints.csv.gz
+327,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,destruct_cell_counts,/juno/work/shah/isabl_data_lake/analyses/38/80/13880/results/destruct_cell_counts.csv.gz
+328,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,lumpy_breakpoints_bed,/juno/work/shah/isabl_data_lake/analyses/38/80/13880/results/lumpy_breakpoints.bed
+329,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,lumpy_breakpoints_csv,/juno/work/shah/isabl_data_lake/analyses/38/80/13880/results/lumpy_breakpoints.csv.gz
+330,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,lumpy_breakpoints_evidence,/juno/work/shah/isabl_data_lake/analyses/38/80/13880/results/lumpy_breakpoints_evidence.csv.gz
+331,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-BREAKPOINTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,destruct_breakpoints_library,/juno/work/shah/isabl_data_lake/analyses/38/80/13880/results/destruct_breakpoints_library.csv.gz
+332,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,museq,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/museq.vcf.gz
+333,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,museq_csi,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/museq.vcf.gz.csi
+334,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,museq_tbi,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/museq.vcf.gz.tbi
+335,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_museq,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/snv_museq.csv.gz
+336,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_snpeff,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/snv_snpeff.csv.gz
+337,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_trinuc,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/snv_trinuc.csv.gz
+338,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_err,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/head_job.err
+339,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_log,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/head_job.log
+340,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_strelka,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/snv_strelka.csv.gz
+341,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_snv,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/strelka_snv.vcf.gz
+342,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_indel,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/strelka_indel.vcf.gz
+343,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_script,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/head_job.sh
+344,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_mappability,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/snv_mappability.csv.gz
+345,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_snv_csi,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/strelka_snv.vcf.gz.csi
+346,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_snv_tbi,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/strelka_snv.vcf.gz.tbi
+347,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_dbsnp_status,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/snv_dbsnp_status.csv.gz
+348,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_cosmic_status,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/snv_cosmic_status.csv.gz
+349,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_indel_csi,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/strelka_indel.vcf.gz.csi
+350,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_indel_tbi,/juno/work/shah/isabl_data_lake/analyses/40/83/14083/results/strelka_indel.vcf.gz.tbi
+351,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,museq,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/museq.vcf.gz
+352,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,museq_csi,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/museq.vcf.gz.csi
+353,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,museq_tbi,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/museq.vcf.gz.tbi
+354,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_museq,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/snv_museq.csv.gz
+355,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_snpeff,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/snv_snpeff.csv.gz
+356,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_trinuc,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/snv_trinuc.csv.gz
+357,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_err,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/head_job.err
+358,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_log,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/head_job.log
+359,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_strelka,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/snv_strelka.csv.gz
+360,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_snv,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/strelka_snv.vcf.gz
+361,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_indel,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/strelka_indel.vcf.gz
+362,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_script,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/head_job.sh
+363,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_mappability,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/snv_mappability.csv.gz
+364,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_snv_csi,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/strelka_snv.vcf.gz.csi
+365,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_snv_tbi,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/strelka_snv.vcf.gz.tbi
+366,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_dbsnp_status,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/snv_dbsnp_status.csv.gz
+367,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_cosmic_status,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/snv_cosmic_status.csv.gz
+368,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_indel_csi,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/strelka_indel.vcf.gz.csi
+369,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_indel_tbi,/juno/work/shah/isabl_data_lake/analyses/40/84/14084/results/strelka_indel.vcf.gz.tbi
+370,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,museq,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/museq.vcf.gz
+371,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,museq_csi,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/museq.vcf.gz.csi
+372,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,museq_tbi,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/museq.vcf.gz.tbi
+373,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_museq,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/snv_museq.csv.gz
+374,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_snpeff,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/snv_snpeff.csv.gz
+375,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_trinuc,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/snv_trinuc.csv.gz
+376,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_err,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/head_job.err
+377,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_log,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/head_job.log
+378,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_strelka,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/snv_strelka.csv.gz
+379,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_snv,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/strelka_snv.vcf.gz
+380,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_indel,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/strelka_indel.vcf.gz
+381,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,command_script,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/head_job.sh
+382,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_mappability,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/snv_mappability.csv.gz
+383,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_snv_csi,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/strelka_snv.vcf.gz.csi
+384,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_snv_tbi,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/strelka_snv.vcf.gz.tbi
+385,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_dbsnp_status,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/snv_dbsnp_status.csv.gz
+386,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,snv_cosmic_status,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/snv_cosmic_status.csv.gz
+387,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_indel_csi,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/strelka_indel.vcf.gz.csi
+388,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-VARIANTCALLING,DNA,DLP,Single Cell DNA Seq,v0.8.0,strelka_indel_tbi,/juno/work/shah/isabl_data_lake/analyses/40/96/14096/results/strelka_indel.vcf.gz.tbi
+389,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-PSEUDOBULKQC,DNA,DLP,Single Cell DNA Seq,unknown,command_err,/juno/work/shah/isabl_data_lake/analyses/43/22/14322/head_job.err
+390,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-PSEUDOBULKQC,DNA,DLP,Single Cell DNA Seq,unknown,command_log,/juno/work/shah/isabl_data_lake/analyses/43/22/14322/head_job.log
+391,OV2295,SA922,OV2295_SA922_A90554B_L9,SCDNA-PSEUDOBULKQC,DNA,DLP,Single Cell DNA Seq,unknown,command_script,/juno/work/shah/isabl_data_lake/analyses/43/22/14322/head_job.sh
+392,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-PSEUDOBULKQC,DNA,DLP,Single Cell DNA Seq,unknown,command_err,/juno/work/shah/isabl_data_lake/analyses/43/23/14323/head_job.err
+393,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-PSEUDOBULKQC,DNA,DLP,Single Cell DNA Seq,unknown,command_log,/juno/work/shah/isabl_data_lake/analyses/43/23/14323/head_job.log
+394,OV2295,SA1090,OV2295_SA1090_A96213A_L5,SCDNA-PSEUDOBULKQC,DNA,DLP,Single Cell DNA Seq,unknown,command_script,/juno/work/shah/isabl_data_lake/analyses/43/23/14323/head_job.sh
+395,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-PSEUDOBULKQC,DNA,DLP,Single Cell DNA Seq,unknown,command_err,/juno/work/shah/isabl_data_lake/analyses/43/35/14335/head_job.err
+396,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-PSEUDOBULKQC,DNA,DLP,Single Cell DNA Seq,unknown,command_log,/juno/work/shah/isabl_data_lake/analyses/43/35/14335/head_job.log
+397,OV2295,SA921,OV2295_SA921_A90554A_L9,SCDNA-PSEUDOBULKQC,DNA,DLP,Single Cell DNA Seq,unknown,command_script,/juno/work/shah/isabl_data_lake/analyses/43/35/14335/head_job.sh
