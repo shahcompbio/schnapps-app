@@ -58,6 +58,7 @@ read_copynumber_dlp <- function(cnpaths,
     cells_to_keep <- metricsdata %>% 
       .[quality > quality_filter] %>% 
       .[is_contaminated == FALSE] %>% 
+      .[is_s_phase == FALSE] %>%
       .[total_mapped_reads > filter_reads] %>% 
       .[!stringr::str_detect(experimental_condition, "NTC|NCC|gDNA|GM|CONTROL|control")]
     
@@ -139,9 +140,7 @@ parser$add_argument("--qcplot", default=NULL, type="character",
 
 args <- parser$parse_args()
 
-# print(args)
-# print(getwd())
-# save.image("/juno/work/shah/users/william1/projects/schnapps-app/test.rds")
+print(args)
 
 message("Read in copy number reads and qc")
 cndata <- read_copynumber_dlp(cnpaths = args$hmmcopyreads,
@@ -157,7 +156,7 @@ res <- callhscn(cndata$cn,
                 ncores = args$ncores)
 
 message("Write output files")
-saveRDS(file = args$RDatafile, object = res)
+saveRDS(file = args$Rdatafile, object = res)
 fwrite(x = res$data, file = args$csvfile)
 
 
