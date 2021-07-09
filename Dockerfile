@@ -12,6 +12,7 @@ RUN Rscript -e "install.packages(pkgs = c('tidyverse', \
                                         clean = TRUE)"
 
 RUN Rscript -e "install.packages('argparse')"
+RUN Rscript -e "install.packages('R.utils')"
 
 RUN Rscript -e "BiocManager::install('ggtree')"
 RUN Rscript -e "BiocManager::install('ComplexHeatmap')"
