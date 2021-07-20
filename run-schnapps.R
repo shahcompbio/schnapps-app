@@ -107,10 +107,10 @@ callhscn <- function(cn,
   message("Infer HSCN")
   hscn <- callHaplotypeSpecificCN(cn, 
                                   haps, 
-                                  cluster_per_chr = T, 
+                                  likelihood = "auto",
+                                  minfrac = 0.7,
+                                  cluster_per_chr = TRUE, 
                                   ncores = ncores)
-  hscn <- rephasebins(hscn, method = "LOH")
-  
   return(hscn)
 }
 
@@ -139,8 +139,6 @@ parser$add_argument("--qcplot", default=NULL, type="character",
                     help="QC plot")
 
 args <- parser$parse_args()
-
-print(args)
 
 message("Read in copy number reads and qc")
 cndata <- read_copynumber_dlp(cnpaths = args$hmmcopyreads,
